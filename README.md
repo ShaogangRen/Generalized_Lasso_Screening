@@ -5,3 +5,4 @@ The code has been tested on Mac OS.
 
 [1] Safe Feature Screening for Generalized LASSO.  
 Shaogang Ren, Shuai Huang, Jieping Ye, Xiaoning Qian.
+Under Review.
