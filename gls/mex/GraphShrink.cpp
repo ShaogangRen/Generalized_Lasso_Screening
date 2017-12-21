@@ -1,3 +1,4 @@
+/* By Shaogang Ren, renshaogang@gmail.com. All rights reserved. */
 #include "mex.h"
 #include <cmath>
 #include "blas.h"
