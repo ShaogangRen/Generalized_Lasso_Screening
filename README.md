@@ -1,4 +1,4 @@
-# GL_Screening
+# Generalized LASSO Safe Screening
 
 To run the code, the first step is to download and install matlab toolbox CVX http://cvxr.com/cvx/.  The code has been tested on Mac OS. If it is useful in your research or project, please cite our paper [1]. 
 
